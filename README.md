@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HarnerAndrew
 - 👀 I’m interested in Biking, Fishing, Hiking, Camping
 - 🌱 I’m currently learning how to write code
-- 💞️ I’m looking to collaborate on making my life easier
 - 📫 How to reach me https://www.linkedin.com/in/andrew-harner-maine/
 
 <!---
